@@ -1,8 +1,10 @@
-# DSA_Pythonrr.txt
-# Data Structures and Algorithms (DSA) in Python 
+# DSA in Python 
+---
+## 🧑‍💻 Author **Gourav Gulia** 
 
-![DSA Banner](https://via.placeholder.com/1200x300?text=Welcome+to+DSA+in+Python)
-
+ Data Enthusiast and Developer  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github)](https://github.com/gauravgulia26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gauravgulia1205)
 ---
 
 ## 🚀 Introduction
@@ -109,21 +111,6 @@ Contributions are welcome! 🎉 If you want to contribute:
 2. Create a new branch.
 3. Commit your changes.
 4. Open a Pull Request.
-
----
-
-## 📸 Screenshots
-
-![DSA Example](https://via.placeholder.com/800x400?text=Sample+Screenshot)
-
----
-
-## 🧑‍💻 Author
-
-**Your Name**  
-Data Enthusiast and Developer  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
 
 ---
 
