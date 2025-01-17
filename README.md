@@ -98,8 +98,8 @@ $ python example.py
 
 - [x] Implement basic data structures.
 - [x] Add sorting and searching algorithms.
-- [ ] Complete dynamic programming module.
-- [ ] Add interactive problem-solving examples.
+- [x] Complete dynamic programming module.
+- [x] Add interactive problem-solving examples.
 
 ---
 
